@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: #3cdbc0;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 300px;
+    font-family: "rubik" , sans-serif;
+    font-size: 16px;
+    
+}
+
+.list{
+    display: flex;
+    justify-content: space-around;
+    font-family: "rubik" , sans-serif;
+    color: #4a4a4a;
+    font-size: 16px;
+    font-weight: bold;
+}
+.header-logo{
+    justify-content: center;
+    align-items: center;
+}
